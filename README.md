@@ -1,2 +1,0 @@
-# dubii
-Just another repository
